@@ -1,0 +1,13 @@
+Goal :
+
+For each notified beacon, user might clic a button when it was found
+If the position is correct, a clear signal shall be sent to user (green led)
+-> Possibility to blink if < 10m
+If not also (red led) !
+
+The user might be able to calibrate the first point with another button ? => yellow led ?
+
+The position is computed with GPS
+The beacon are stored in SD card, in LAT/LON or in distance vs Origin
+A circle of tolerance could be defined
+Different mode can be computed ? Indicate the direction, blink when in, ordred beacons etc...
