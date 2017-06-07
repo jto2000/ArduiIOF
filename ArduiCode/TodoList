@@ -11,3 +11,13 @@ The position is computed with GPS
 The beacon are stored in SD card, in LAT/LON or in distance vs Origin
 A circle of tolerance could be defined
 Different mode can be computed ? Indicate the direction, blink when in, ordred beacons etc...
+
+
+Functions :
+GPS Mngt
+Beacon Mngt
+Battery mngt
+
+Computer Com ? SD Card ? USB ? Bluetooth ?
+If USB => arduino FIO ?
+else ATMega328 ?
