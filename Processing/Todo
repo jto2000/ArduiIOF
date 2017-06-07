@@ -7,3 +7,7 @@ Be able to point and click a new beacon
 If geolocalized map => compute position and save it in file (to put on SD card)
 If not => User shall define a origin beacon point, clearly identifiable on map
 Soft shall compute the distance and heading of each point, to give the possibility to compute position with embedded sw
+
+Shall be able to print the map
+
+Shall be able to move the points on the map ?
